@@ -1,0 +1,59 @@
+{
+  "companies": [
+    {
+      "id": "1234",
+      "name": "Nintendo",
+      "location": "Japón",
+      "foundedIn": 1889
+    },
+    {
+      "id": "3567",
+      "name": "Sony",
+      "location": "Japón",
+      "foundedIn": 1950
+    },
+    {
+      "id": "6789",
+      "name": "Microsoft",
+      "location": "US",
+      "foundedIn": 1970
+    }
+  ],
+  "games": [
+    {
+      "id": "XYZW",
+      "title": "Animal Crossing",
+      "category": "sim",
+      "rating": null,
+      "companyId": "1234"
+    },
+    {
+      "id": "FTGY",
+      "title": "Zelda Tears of The Kingdom",
+      "category": "adventure",
+      "rating": 10,
+      "companyId": "1234"
+    },
+    {
+      "title": "Pokemon Red",
+      "category": "action",
+      "rating": null,
+      "companyId": "1234",
+      "id": "POKE"
+    },
+    {
+      "id": "SDFT",
+      "title": "Sea of Thieves",
+      "category": "adventure",
+      "rating": null,
+      "companyId": "6789"
+    },
+    {
+      "id": "AWSE",
+      "title": "God of War",
+      "category": "action",
+      "rating": null,
+      "companyId": "3567"
+    }
+  ]
+}
